@@ -27,7 +27,7 @@ The main objective of this project is to:
 
 The dataset contains:
 
-* **1,948 records**
+* **1,941 records**
 * **27 independent features**
 * **7 target fault labels**
 
