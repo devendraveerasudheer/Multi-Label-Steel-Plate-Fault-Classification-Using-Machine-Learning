@@ -1,5 +1,0 @@
-streamlit
-scikit-learn>=1.4
-xgboost>=2.0
-numpy>=1.26
-pandas>=2.2
