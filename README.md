@@ -306,4 +306,5 @@ GitHub: `devendraveerasudheer`
 This project demonstrates an end-to-end Machine Learning workflow for **steel plate fault detection**, starting from data analysis and feature evaluation to multi-label classification and Streamlit deployment.
 
 The combination of **XGBoost and ClassifierChain** enables the system to predict multiple steel plate faults from the available input features.
-# Steel-Fault-Detection
+# Steel-Fault-Classification
+
