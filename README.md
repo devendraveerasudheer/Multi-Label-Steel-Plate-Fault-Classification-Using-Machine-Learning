@@ -1,4 +1,4 @@
-# Steel Plate Fault Detection using Machine Learning
+# Multi-Label Steel Plate Fault Classification Using Machine Learning
 
 ## 📌 Project Overview
 
