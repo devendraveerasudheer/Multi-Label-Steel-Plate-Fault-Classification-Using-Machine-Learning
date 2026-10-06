@@ -40,7 +40,7 @@ fault_names = model_data["fault_names"]
 # -----------------------------
 # Title
 # -----------------------------
-st.title("🔍 Steel Plate Fault Detection")
+st.title("🔍 Multi Label Steel Plate Fault Classification Using Machine Learning")
 
 st.write(
     "Enter the values for the features below to predict "
