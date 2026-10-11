@@ -1,5 +1,13 @@
 # Multi-Label Steel Plate Fault Classification Using Machine Learning
 
+##🌐 Live Demo
+
+🚀 Try the deployed application here: Steel Plate Fault Detection – Live App
+
+The application allows users to enter steel plate features and predict potential surface faults using the trained XGBoost + ClassifierChain model.
+
+Live App: https://steel-fault-detection001.streamlit.app/
+
 ## 📌 Project Overview
 
 Steel plate manufacturing can develop different types of surface faults during the production process. Detecting these faults automatically can help improve quality control and reduce manual inspection.
